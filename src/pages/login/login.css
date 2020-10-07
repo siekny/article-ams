@@ -1,0 +1,24 @@
+.login-container {
+    margin-top: 10em;
+}
+
+.title {
+    color: #0a5695;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.loginCard {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.loginButton {
+    background-color: #0a5695;
+}
+
+.loginDropdown {
+    width: 60%;
+    margin-right: auto;
+}
